@@ -9,3 +9,4 @@
 - point-animation-overlay.html，动态点效果；
 - contextmenu.html，地图鼠标右键菜单功能。
 2. [地图上面点亮自己去过的地方](https://github.com/abruzzi/places-ive-been)
+3. [WebGIS之OpenLayers全面解析源码]()
